@@ -1,3 +1,7 @@
+이 저장소는 SCE-TTS 프로젝트에서 사용하기 위해 [jaywalnut310/glow-tts](https://github.com/jaywalnut310/glow-tts)를 포크하여 수정한 저장소입니다.
+
+---
+
 # Glow-TTS: A Generative Flow for Text-to-Speech via Monotonic Alignment Search
 
 ### Jaehyeon Kim, Sungwon Kim, Jungil Kong, and Sungroh Yoon
